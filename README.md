@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm <u>Naresh Singh</u> 👦</h1>  
-<h3 align="center">Developer 👨‍💻 | Modder 📱 | BA Student 🎓 | Lifelong Learner 📚</h3>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0000&size=35&width=800&lines=I'm%20a%20Developer%20👨‍💻;I'm%20a%20Modder%20📱;I'm%20a%20BA%20Student%20🎓;I'm%20a%20Lifelong%20Learner%20📚">
+  </a>
+</h1>
 
 <p align="center">  
   <img src="https://user-images.githubusercontent.com/104439090/171969534-8e05c45e-455b-4742-a210-c21b4f754d4f.png" width="150"/>  
@@ -21,6 +26,8 @@
 - 🎯 Goal: Become a **Teacher**, but still a **Tech Geek** from the hills!
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NareshHacker&label=Profile%20views&color=ff0000&style=flat" alt="NareshHacker" /> </p>
 
 ### 📡 Connect With Me
 
