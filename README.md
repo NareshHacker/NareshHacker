@@ -1,3 +1,42 @@
+### नमस्ते (Namaste)🙏, I'm Naresh Singh!
+
+**"Learning, Coding & Dreaming Big!"**
+
+I'm a passionate self-learner from Uttarakhand, currently pursuing B.A. with major interests in Political Science, Economics, and English. I'm also exploring the world of programming, hacking, and data analysis — all from my Android device using tools like **Termux**, **MT Manager**, and more!
+
+---
+
+### 🧠 Tech Stack & Tools I Use:
+- **Languages:** Python, JavaScript, Bash, HTML/CSS, C++, etc.
+- **Tools:** Termux, MT Manager, VS Code, Node.js, Git, Winlator, ExGear
+- **Interests:** Android Modding, Hacking, Data Analysis, Web Dev
+
+---
+
+### 📈 GitHub Stats:
+![Naresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+### ✨ Fun Facts:
+- Harmonium bajata hoon when I’m not coding!
+- Desi coder with a pahadi soul.
+- Mujhe books aur music dono pasand hain.
+- Target: Ek din teacher banunga!
+
+---
+
+### 📫 Connect with me:
+- **Email:** yourname@example.com
+- **Instagram/Twitter/LinkedIn** (agar chahte ho toh)
+
+---
+
+> “Jo seekhna bandh kar deta hai, wo jeetna bhi bandh kar deta hai.” – Naresh Style Motivation
+
+
 <ul>
 <h1 align="center">Hi 👋, I'm <u>Naresh</u>👦</h1>
 <h3 align="center">  Hacker 👨‍💻 Modder 🌆 Programmer 💻</h3>
